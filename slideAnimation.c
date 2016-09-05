@@ -6,8 +6,7 @@ pthread_t thread1;
 pthread_t thread2;
 
 void* slAnimation(void *arg){
-//	system("sl");
-	system("grep -r sl /");
+	//
 }
 
 void controlLayer(int _in);
